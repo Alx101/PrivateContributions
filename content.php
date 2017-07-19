@@ -12,4 +12,5 @@
         echo "lrhyp";
         echo "mpchr";
         echo "dmqbr";
+        echo "swhdh";
 ?>

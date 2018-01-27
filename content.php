@@ -37,5 +37,4 @@
         echo "httma";
         echo "begqx";
         echo "qfaka";
-        echo "sxpgk";
 ?>

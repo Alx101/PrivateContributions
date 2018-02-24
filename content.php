@@ -39,5 +39,4 @@
         echo "udstn";
         echo "gtfdi";
         echo "ypdmt";
-        echo "gsbsf";
 ?>

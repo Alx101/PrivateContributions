@@ -45,5 +45,4 @@
         echo "wullt";
         echo "qlxix";
         echo "hncak";
-        echo "ajkhc";
 ?>

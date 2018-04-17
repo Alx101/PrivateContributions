@@ -69,5 +69,4 @@
         echo "cydbl";
         echo "fnpkd";
         echo "ocjgl";
-        echo "joiby";
 ?>

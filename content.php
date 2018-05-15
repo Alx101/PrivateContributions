@@ -74,5 +74,4 @@
         echo "obwnt";
         echo "aurye";
         echo "taiqj";
-        echo "qgpqk";
 ?>

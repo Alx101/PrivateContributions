@@ -76,5 +76,4 @@
         echo "duyqy";
         echo "tjqrq";
         echo "kdgio";
-        echo "evdkm";
 ?>

@@ -80,5 +80,5 @@
         echo "ndmks";
         echo "mdlhx";
         echo "kmmfs";
-        echo "dshot";
+        echo "rfxlo";
 ?>

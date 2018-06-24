@@ -80,5 +80,4 @@
         echo "ndmks";
         echo "mdlhx";
         echo "kmmfs";
-        echo "lpybo";
 ?>
